@@ -5,5 +5,3 @@ new change3 in c1
 hoho
 wellwell
 hoho
-this
-newd
