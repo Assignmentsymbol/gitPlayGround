@@ -1,1 +1,2 @@
 hello
+new change in class2
